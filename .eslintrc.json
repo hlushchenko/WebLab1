@@ -1,15 +1,7 @@
 {
-    "env": {
-        "browser": true,
-        "commonjs": true,
-        "es2021": true
-    },
-    "extends": [
-        "metarhia"
-    ],
-    "parserOptions": {
-        "ecmaVersion": 13
-    },
-    "rules": {
-    }
+  "env": {
+    "browser": true,
+    "commonjs": true
+  },
+  "extends": ["metarhia"]
 }
